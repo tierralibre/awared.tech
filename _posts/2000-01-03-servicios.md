@@ -7,27 +7,5 @@ fa-icon: cogs
 
 ## Servicios
 
-- 1
-- 2
-
-2
-
-** test **
-
--------------------------
-
-
-## Otra seccion
-
-- otra
-
--------------------------
-
-
-## otra
-
-parte
-
-- otra
-- otra 
+IoT y telegestión para aplicaciones en el mundo del agua
 
